@@ -2,6 +2,7 @@
 
 Setup for PHP Unit test cases
 Install php and phpunit on linux jenkins server
+
 sudo yum install php56
 wget https://phar.phpunit.de/phpunit-5.6.1.phar
 php phpunit-5.6.1.phar — version
